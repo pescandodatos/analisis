@@ -1,10 +1,16 @@
+# Como usar
+
+Colocar todo en SQLAlchemy
+Hacer analisis
+
+
 # Guia de Preguntas
 
 ## Beneficio Social
 
 ### Objetivo:
 
-Quien es la población atendida? Cómo se compara esto con el objetivo del programa? 
+Quien es la población atendida? Cómo se compara esto con el objetivo del programa?
 Construir una definición, empujándoles a ser más específicos desde el principio
 Empujar el debate hacia definir “intencionalmente” una definición de población potencial y población objetivo
 
